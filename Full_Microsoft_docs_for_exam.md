@@ -96,7 +96,9 @@ Also, you should have a look to the *Resources* section in this study guide wher
   - [List Azure role assignments using the Azure portal](https://docs.microsoft.com/en-us/azure/role-based-access-control/role-assignments-list-portal?WT.mc_id=AZ-MVP-5004069)
   - [Understand Azure deny assignments](https://docs.microsoft.com/en-us/azure/role-based-access-control/deny-assignments?WT.mc_id=AZ-MVP-5004069)
   - [List Azure deny assignments using the Azure portal](https://docs.microsoft.com/en-us/azure/role-based-access-control/deny-assignments-portal?WT.mc_id=AZ-MVP-5004069)
-Manage subscriptions and governance
+
+###### Manage subscriptions and governance
+
 - configure Azure policies
   - [What is Azure Policy?](https://docs.microsoft.com/en-us/azure/governance/policy/overview?WT.mc_id=AZ-MVP-5004069)
   - [Quickstart: Create a policy assignment to identify non-compliant resources](https://docs.microsoft.com/en-us/azure/governance/policy/assign-policy-portal?WT.mc_id=AZ-MVP-5004069)

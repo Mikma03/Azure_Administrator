@@ -3,6 +3,8 @@
 
 - [Azure_Administrator](#azure_administrator)
 - [Udemy Course](#udemy-course)
+  - [Dedicated for AZ-104](#dedicated-for-az-104)
+  - [Useful course related to AZ-104](#useful-course-related-to-az-104)
 - [Microsoft AZ-104 landig page](#microsoft-az-104-landig-page)
 - [Official Microsoft course](#official-microsoft-course)
 - [John Savill - YouTube course:](#john-savill---youtube-course)
@@ -22,14 +24,20 @@
 
 # Azure_Administrator
 
-Materials and projects related to AZ-104
+**Materials and projects related to AZ-104**
 
 
 # Udemy Course
 
+## Dedicated for AZ-104
+
 - AZ-104 Microsoft Azure Administrator Certification 2022
   - https://www.udemy.com/course/microsoft-certified-azure-administrator/
 
+## Useful course related to AZ-104
+
+- Mastering Azure PowerShell
+  - https://www.udemy.com/course/azure-powershell/
 
 # Microsoft AZ-104 landig page
 
@@ -73,9 +81,11 @@ https://docs.microsoft.com/en-us/shows/exam-readiness-zone/?terms=104
 
 # Microsoft Certified - Collection course for AZ-104
 
-- https://docs.microsoft.com/en-us/users/hugobarona/collections/p0pki4j8reg8ey?WT.mc_id=DT-MVP-5004069
 
 ## AZ-104: Prerequisites for Azure administrators
+
+https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/?WT.mc_id=DT-MVP-5004069
+
 
 ### Configure Azure resources with tools
 
